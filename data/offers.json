@@ -1,0 +1,28 @@
+{
+  "active_offers": [
+    {
+      "title": "Summer Sale",
+      "discount": "20% off",
+      "code": "SUMMER20",
+      "valid_until": "2025-08-31",
+      "applicable_on": "All products",
+      "description": "Get 20% off on all items with code SUMMER20"
+    },
+    {
+      "title": "Free Shipping",
+      "discount": "Free shipping",
+      "code": "FREESHIP",
+      "valid_until": "2025-12-31",
+      "applicable_on": "Orders above PKR 2000",
+      "description": "Free shipping on all orders above PKR 2000"
+    },
+    {
+      "title": "First Purchase Discount",
+      "discount": "15% off",
+      "code": "FIRST15",
+      "valid_until": "2025-12-31",
+      "applicable_on": "New customers only",
+      "description": "Get 15% off on your first order with FIRST15"
+    }
+  ]
+}

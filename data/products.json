@@ -1,0 +1,37 @@
+{
+  "products": [
+    {
+      "id": "001",
+      "name": "Premium Cotton T-Shirt",
+      "description": "Comfortable and durable premium cotton t-shirt",
+      "price": 2500,
+      "currency": "PKR",
+      "variants": ["Size S", "Size M", "Size L", "Size XL"],
+      "stock": "available",
+      "images": [],
+      "shopify_url": "https://yourstore.com/products/premium-tshirt"
+    },
+    {
+      "id": "002",
+      "name": "Classic Denim Jeans",
+      "description": "Stylish denim jeans perfect for casual wear",
+      "price": 4500,
+      "currency": "PKR",
+      "variants": ["28", "30", "32", "34", "36"],
+      "stock": "available",
+      "images": [],
+      "shopify_url": "https://yourstore.com/products/denim-jeans"
+    },
+    {
+      "id": "003",
+      "name": "Casual Sneakers",
+      "description": "Comfortable white sneakers for everyday use",
+      "price": 3500,
+      "currency": "PKR",
+      "variants": ["Size 6", "Size 7", "Size 8", "Size 9", "Size 10"],
+      "stock": "available",
+      "images": [],
+      "shopify_url": "https://yourstore.com/products/casual-sneakers"
+    }
+  ]
+}

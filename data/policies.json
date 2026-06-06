@@ -1,0 +1,21 @@
+{
+  "shipping": {
+    "method": "Courier",
+    "time": "3-5 working days",
+    "charges": "Free above PKR 3000, otherwise PKR 200",
+    "areas": "All Pakistan"
+  },
+  "returns": {
+    "window": "7 days",
+    "condition": "Item must be unused and in original packaging",
+    "process": "Contact us on WhatsApp with order ID and photo"
+  },
+  "payment_methods": [
+    "Cash on Delivery",
+    "Bank Transfer",
+    "JazzCash",
+    "Easypaisa"
+  ],
+  "warranty": "No warranty unless product arrives damaged. Contact us immediately with photos.",
+  "damages": "If item arrives damaged, contact within 24 hours with photos for replacement."
+}

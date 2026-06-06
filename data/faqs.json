@@ -1,0 +1,32 @@
+{
+  "faqs": [
+    {
+      "question": "Do you offer Cash on Delivery?",
+      "answer": "Yes, we offer COD all across Pakistan."
+    },
+    {
+      "question": "How long does delivery take?",
+      "answer": "Delivery takes 3-5 working days depending on your location."
+    },
+    {
+      "question": "Can I exchange my order?",
+      "answer": "Yes, exchanges are accepted within 7 days of delivery if the item is unused and in original packaging."
+    },
+    {
+      "question": "What are your payment methods?",
+      "answer": "We accept Cash on Delivery, Bank Transfer, JazzCash, and Easypaisa."
+    },
+    {
+      "question": "Do you ship internationally?",
+      "answer": "Currently, we only ship within Pakistan."
+    },
+    {
+      "question": "How can I track my order?",
+      "answer": "You'll receive a tracking number via WhatsApp once your order is dispatched."
+    },
+    {
+      "question": "What is your return policy?",
+      "answer": "Items can be returned within 7 days of delivery if unused and in original packaging. Contact us on WhatsApp with your order ID and photos."
+    }
+  ]
+}

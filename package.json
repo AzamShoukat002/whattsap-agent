@@ -1,0 +1,25 @@
+{
+  "name": "whatsapp-agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon --ignore auth_info_baileys/** --ignore sessions/** index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.100.1",
+    "@whiskeysockets/baileys": "^7.0.0-rc13",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "kokoro-js": "^1.2.1",
+    "msedge-tts": "^2.0.5",
+    "nodemon": "^3.1.14",
+    "pino": "^10.3.1",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
